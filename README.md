@@ -59,4 +59,4 @@ O projeto tem como foco achar públicos alvo para uma campanha de anúncio.
   ![](/imagens/cr_log.png)          ![](/imagens/cm_log.png)
   
   
-  ### O Notebook Jupyter de todos os projetos estão completos no github na pasta ![jupyters](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/tree/main/jupyters)
+**O Notebook Jupyter de todos os projetos estão completos no github na pasta ![jupyters](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/tree/main/jupyters)**
