@@ -17,6 +17,27 @@ Por conclusão chegamos que Emergencias Médicas são as que tem mais chados do 
  
  ![](/imagens/heatmap.png)
  
+## Projeto 2: Regressão Linear - Decisão de Desenvolvimento
+O projeto é para uma empresa que está em dúvida se deve priorizar o desenvolvimento do seu site ou do seu aplicativo.
+
+  * Utilização de Machine Learning com ScikitLearn
+  * Aplicação de conceitos em Regressão Linear
+  
+ Atráves de jointplots foi feito uma verificação visual para ver qual dos dois seria mais lucrativo, o site ou o aplicativo.
+ 
+  ![](/imagens/joint1_lin.png) ![](/imagens/joint2_lin.png)
+ 
+ Com essa simples visualização podemos já ter uma ideia que o aplicativo será mais lucrativo, mas iremos confirmar isso com uma regressão linear.
+ 
+ ![](/imagens/coefs_lin.png)
+ 
+ Com a tabela dos coeficentes que criamos podemos verificar que os esforços devem ser gastos no aplicativo por que os clientes que ficam no aplicativo gastam mais do 
+ que os clientes que ficam no site, por que as pessoas que usam o aplicativo tem um gasto previsto de 38.50 dolares por minuto que estão no aplicativo, já as do site tem um 
+ gasto de 0.60 dolares por minuto.
+ 
+ Mas temos também que verificar o quão confiavel é o nosso modelo e abaixo temos essa verificação, temos um gráfico que mostra que os valores preditos condizem muito com os valores de teste
+ 
+  ![](/imagens/scatter_lin.png)
  
 ## Projeto 3: Regressão Logística - Campanha de Anúncio
 O projeto tem como foco achar públicos alvo para uma campanha de anúncio.
@@ -38,4 +59,4 @@ O projeto tem como foco achar públicos alvo para uma campanha de anúncio.
   ![](/imagens/cr_log.png)          ![](/imagens/cm_log.png)
   
   
-  
+  ### O Notebook Jupyter de todos os projetos estão completos no github na pasta ![jupyters](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/tree/main/jupyters)
