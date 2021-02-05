@@ -34,7 +34,8 @@ O projeto tem como foco achar públicos alvo para uma campanha de anúncio.
   
   Abaixo consta a Tabela de Classificação e a Matriz de Confusão 
   
-  ![](/images/cr_log.png)  ![](/images/cm_log.png)
+  
+  ![](/imagens/cr_log.png)          ![](/imagens/cm_log.png)
   
   
   
