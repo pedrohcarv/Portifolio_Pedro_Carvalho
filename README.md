@@ -9,4 +9,4 @@ O projeto serve para trazer insights atrávez de análises das chamadas para o 9
 
 Por conclusão chegamos que Emergencias Médicas são as que tem mais chados do 911 nos EUA, uma conclusão bem sólida encontrada foi que Janeio tem muito mais casos que o mês de Dezembro.
 
- ![](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/blob/main/imagens/ems.png) ![](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/blob/main/imagens/EMS_meses.png)
+ ![](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/blob/main/imagens/EMS_count.png) ![](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/blob/main/imagens/EMS_months.png)
