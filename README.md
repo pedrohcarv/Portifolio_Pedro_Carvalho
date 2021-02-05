@@ -7,5 +7,6 @@ O projeto serve para trazer insights atrávez de análises das chamadas para o 9
    * Traz entendimento sobre a manipulação de DataFrames.
    * Exploração dos dados atráves de gráficos para entender visuamente o que está acontecendo.
 
-Por conclusão chegamos que Emergencias Médicas são as que tem mais chados do 911 nos EUA, uma conclusão bem sólida encontrada foi que Janeio tem muito mais casos que o mês de Dezembro 
- []
+Por conclusão chegamos que Emergencias Médicas são as que tem mais chados do 911 nos EUA, uma conclusão bem sólida encontrada foi que Janeio tem muito mais casos que o mês de Dezembro.
+
+ ![](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/blob/main/imagens/ems.png) ![](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/blob/main/imagens/EMS_meses.png)
