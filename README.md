@@ -21,13 +21,13 @@ Por conclusão chegamos que Emergencias Médicas são as que tem mais chados do 
 ## Projeto 3: Regressão Logística - Campanha de Anúncio
 O projeto tem como foco achar públicos alvo para uma campanha de anúncio.
 
-    * Utilização de Machine Learning com ScikitLearn
-    * Aplicação de conceitos em Regressão Logística
+   * Utilização de Machine Learning com ScikitLearn
+   * Aplicação de conceitos em Regressão Logística
     
   Foi verificado qual coluna seria utilizada na regressão atráves deste pairplot:
     
     
-      ![](/imagens/pairplot_log.png)
+  ![](/imagens/pairplot_log.png)
     
     
   Após as verificações para ver qual dos parâmetros presesentes no DataFrame usamos a Idade, Sexo e Renda da Área e como variável alvo, utilizamos o Clique no Anúncio.
