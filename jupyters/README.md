@@ -1,1 +1,1 @@
-## Cada pasta contem os jupyters e os csv necessarios para rodar os jupyters
+## Cada pasta contem os jupyters e os CSVs necessarios para rodar os jupyters
