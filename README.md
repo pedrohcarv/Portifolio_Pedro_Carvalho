@@ -94,4 +94,4 @@ Este é um projeto para simplesmente explicar o funcionamente do KNN, o conjunto
    ![](/imagens/cr_knn_130.png)![](/imagens/cm_knn_130.png)
    
   
-**O Notebook Jupyter de todos os projetos estão completos no github na pasta ![jupyters](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/tree/main/jupyters)**
+**Os Notebooks Jupyter de todos os projetos estão completos no github na pasta jupyters**
