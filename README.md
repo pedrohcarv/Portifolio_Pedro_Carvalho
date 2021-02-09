@@ -58,5 +58,40 @@ O projeto tem como foco achar públicos alvo para uma campanha de anúncio.
   
   ![](/imagens/cr_log.png)          ![](/imagens/cm_log.png)
   
+## Projeto 4: KNN - Dados camuflados
+Este é um projeto para simplesmente explicar o funcionamente do KNN, o conjunto de dados é um conjunto de dados sem aparente significado por não terem suas devidas etiquetas.
+  
+   * Normalização de dados 
+   * Escolha do melhor K
+   
+   Fazemos uma exploração dos dados mais básica, só para vermos que tipo de dados estamos tratando 
+   
+   ![](/imagens/knn_pairplot.png)
+   
+   Após isso fazemos a normalização para podermos definir vizinhos.
+   
+   ### Dataframe antes da normalização:
+   ![](/imagens/nao_normalizado.png)
+   
+   ### Dataframe depois da normalização:
+   ![](/imagens/normalizado.png)
+   
+   Com a normalização feita podemos agora rodar o código do KNN, iremos primeiro ver com o K = 1
+   
+   ![](/imagens/cr_knn.png)![](/imagens/cm_knn.png)
+   
+   Podemos ver que não obtivemos um bom resultado para o modelo, podemos melhorar esse modelo aumentando o KNN
+   
+   
+   Abaixo temos um plot gerado expecificamente para esse dataframe que nos mostra a relação das taxas de erro com o K
+   
+   ![](/imagens/definidor_ks.png)
+   
+   Vemos algo muito importante neste gráfico, vemos que a taxa de erro, não vária ou vária muito pouco quando chegamos no número de 130 Ks, então devemos treinar o nosso modelo para essa quantidade de Ks
+   
+   Por fim temos uma precisão bem melhor para o modelo com 130 Ks
+   
+   ![](/imagens/cr_knn_130.png)![](/imagens/cm_knn_130.png)
+   
   
 **O Notebook Jupyter de todos os projetos estão completos no github na pasta ![jupyters](https://github.com/pedrohcarv/Portifolio_Pedro_Carvalho/tree/main/jupyters)**
