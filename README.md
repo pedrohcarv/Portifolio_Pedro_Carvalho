@@ -1,3 +1,4 @@
+![](/imagens/data_science.png)
 Esse é o meu protfólio em Data Science, aqui está o que eu ando trabalhando ultimamente.
 
 
